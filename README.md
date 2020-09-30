@@ -15,3 +15,5 @@ elements except 6 is 300
 10 * 3 * 6 * 5 product of other array 
 elements except 2 is 900
 
+
+Note: If somebody wants to improve the code, then they can fork this project and make a pull request :)
